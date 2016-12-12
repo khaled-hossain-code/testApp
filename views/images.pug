@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  h2 Insert User Info
+  form(method="post")
+  fieldset.form-group
+   label(for="handle") Enter User's Handle
+   input.form-control(name="handle", type="text", placeholder="Enter a handle test")
+   br
+   button.btn.btn-primary(type="submit") Search Images
+   a.btn.btn-default(href="/" style="margin:5px;") Cancel

@@ -1,0 +1,13 @@
+extends layout
+
+block content
+    h1= title
+    p Welcome to #{title}
+    table.table.table-striped
+        thead
+        th Messages
+        tbody
+        each message in messages
+         tr
+          td=message
+            

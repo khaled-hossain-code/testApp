@@ -1,0 +1,657 @@
+[
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "hello EveryOne how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  },
+  {
+    "tweet": "hello world how is it going",
+    "user": {
+      "first_name": "Martin",
+      "last_name": "Wintz",
+      "country": "France",
+      "handle": "maybiusstrip",
+      "bio": "http://github.com/maybiustrip"
+    }
+  },
+  {
+    "tweet": "tweet with an article",
+    "article": "https://techcrunch.com/2016/12/10/software-is-due-for-a-bundling-event/",
+    "thumbnail": "https://tctechcrunch2011.files.wordpress.com/2016/12/collab.jpg?w=738",
+    "user": {
+      "first_name": "Emeline",
+      "last_name": "Landemaine",
+      "country": "France",
+      "handle": "emeline",
+      "bio": "http://github.com/emeline"
+    }
+  },
+  {
+    "tweet": "tweet with just an image",
+    "picture": "https://tctechcrunch2011.files.wordpress.com/2015/09/newscred-founders.jpeg",
+    "user": {
+      "first_name": "Emily",
+      "last_name": "Schultz",
+      "country": "Germany",
+      "handle": "madamefuriosa",
+      "bio": "http://github.com/madamefuriosa"
+    }
+  },
+  {
+    "tweet": "plain text tweet",
+    "user": {
+      "first_name": "Azhar",
+      "last_name": "Islam",
+      "country": "Bangladesh",
+      "handle": "a7har",
+      "bio": "http://github.com/a7har"
+    }
+  }
+]
